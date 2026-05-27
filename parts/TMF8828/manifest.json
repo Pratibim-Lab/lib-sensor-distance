@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Distance/TMF8828:TMF8828",
+  "name": "TMF8828",
+  "library": "Sensor_Distance",
+  "file": "Sensor_Distance.kicad_symdir/TMF8828.kicad_sym",
+  "description": "5m distance ranging ToF sensor, 3x3, 4x4, 3x6, 8x8 zones, LGA-12",
+  "datasheet": "https://ams.com/documents/20143/6015057/TMF882X_DS000693_8-00.pdf",
+  "keywords": "TMF882x ToF",
+  "footprint": "Sensor_Distance:AMS_OLGA12",
+  "extends": "TMF8820",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-distance@master/parts/TMF8828/",
+  "part_path": "parts/TMF8828",
+  "symbol_file": "parts/TMF8828/TMF8828.kicad_sym",
+  "source_library": "Sensor_Distance.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:59.701Z"
+}

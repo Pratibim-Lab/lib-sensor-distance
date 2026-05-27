@@ -1,0 +1,17 @@
+{
+  "id": "Sensor_Distance/VL53L1CXV0FY1:VL53L1CXV0FY1",
+  "name": "VL53L1CXV0FY1",
+  "library": "Sensor_Distance",
+  "file": "Sensor_Distance.kicad_symdir/VL53L1CXV0FY1.kicad_sym",
+  "description": "4m distance ranging ToF sensor, Optical LGA12",
+  "datasheet": "https://www.st.com/resource/en/datasheet/vl53l1x.pdf",
+  "keywords": "VL53L1x ToF",
+  "footprint": "Sensor_Distance:ST_VL53L1x",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-sensor-distance@master/parts/VL53L1CXV0FY1/",
+  "part_path": "parts/VL53L1CXV0FY1",
+  "symbol_file": "parts/VL53L1CXV0FY1/VL53L1CXV0FY1.kicad_sym",
+  "source_library": "Sensor_Distance.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:59.707Z"
+}
